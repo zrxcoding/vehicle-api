@@ -1,0 +1,12 @@
+{
+  "name": "rc-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
